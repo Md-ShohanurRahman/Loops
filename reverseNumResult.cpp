@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 int main (){
-// reverse  a number and print the result  
+// reverse  a given  number and print the result  
 int n=1234;
 int sum =0;
 int result =0;

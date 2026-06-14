@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 int main (){
-// print the digit of a given number using while loop 
+// print the digit of a given number in reverse order using while loop 
 int n=1234;
 int sum =0;
 while(n>0){
